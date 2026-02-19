@@ -1,0 +1,29 @@
+Here’s a simple example of an XML file (e.g., `bookstore.xml`):
+
+```xml
+<?xml version="1.0" encoding="UTF-8"?>
+<bookstore>
+    <book id="B001">
+        <title>Learning XML</title>
+        <author>
+            <firstName>John</firstName>
+            <lastName>Smith</lastName>
+        </author>
+        <genre>Technology</genre>
+        <price currency="USD">29.99</price>
+        <publishedYear>2023</publishedYear>
+    </book>
+
+    <book id="B002">
+        <title>Introduction to Programming</title>
+        <author>
+            <firstName>Emily</firstName>
+            <lastName>Johnson</lastName>
+        </author>
+        <genre>Education</genre>
+        <price currency="USD">39.95</price>
+        <publishedYear>2022</publishedYear>
+    </book>
+</bookstore>
+```
+
