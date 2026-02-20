@@ -1,10 +1,6 @@
 Here’s a simple example of an XML file (e.g., `bookstore.xml`):
 
-```xml
-<?xml version="1.0" encoding="UTF-8"?>
-<bookstore>
-    <book id="B001">
-        <title>Learning XML</title>
+
         <author>
             <firstName>John</firstName>
             <lastName>Smith</lastName>
